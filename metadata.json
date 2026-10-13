@@ -1,0 +1,6 @@
+{
+  "name": "YSI LearnPath — National Innovation & Progressive E-Learning Portal",
+  "description": "Federal Ministry of Innovation, Science & Technology (FMIST) progressive e-learning and incubation portal for youth and student innovators, featuring prerequisite mastery tracks, zonal bootcamps, and verifiable credentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
